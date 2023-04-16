@@ -22,7 +22,7 @@ public class Main {
 		myAccount.display();
 		yourAccount.display();
 		
-		//Subtract value
+		//Subtract value...
 		out.println();
 		myAccount.substract(1000);
 		yourAccount.substract(500);
